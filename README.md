@@ -1,4 +1,4 @@
-# EX NO:5
+# EX NO:6
 <P align='center'> <b>SR-FLIPFLOP-USING-CASE</b>
 
 **DATE:**
